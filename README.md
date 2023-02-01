@@ -71,7 +71,7 @@ df %>% summarise(Amostras = sum(Enterococcus)) %>%
   scale_fill_brewer(palette="Set1")
 ```
 
-# Questão 4 {.tabset .tabset-fade .tabset-pills}
+# Questão 4
 Podemos ver aqui um gráfico no formato de histograma, tanto no total das praias como pegando cada praia e analisando ela por si própria (clicando em "individuais").
 
 ## Todos
