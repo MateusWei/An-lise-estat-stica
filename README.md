@@ -3,7 +3,7 @@ Análise estatística da qualidade da água das praias de Mongaguá em SP
 
 
 # Contextualização
-Leia o relatório feito em R Markdown (ou continue lendo este sem edição e imagens), o qual apresenta as estatísticas e os gráficos obtidos apartir das informações fornecidas. Tais informações envolvem a observação de vários dias da quantidade de enterococcus presentes nas águas das praias de Mongaguá em São Paulo.
+Leia o relatório feito em R Markdown (relatorio.html), o qual apresenta as estatísticas e os gráficos obtidos apartir das informações fornecidas (com edição e gráficos ou continue lendo o Readme). Tais informações envolvem a observação de vários dias da quantidade de enterococcus presentes nas águas das praias de Mongaguá em São Paulo.
 
 
 ### Importando bibliotecas
